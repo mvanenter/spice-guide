@@ -1,16 +1,30 @@
-# React + Vite
+# Spice & Herb Guide
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A searchable reference guide to common spices and herbs, what they taste like, which dishes they suit, which cuisines they belong to, and a practical tip for each one.
 
-Currently, two official plugins are available:
+Built as a Progressive Web App, so you can add it to your iPhone home screen and use it like a native app.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Live App
 
-## React Compiler
+https://fascinating-pika-7e6020.netlify.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+- 28 spices and herbs covered
+- Live search by name, dish, or cuisine
+- Filter by spices or herbs
+- Practical cooking tip for each entry
+- Works as a PWA, installable on iPhone via Safari
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Built With
+
+- React
+- Vite
+- Netlify
+
+## Getting Started
+
+git clone https://github.com/mvanenter/spice-guide.git
+cd spice-guide
+npm install
+npm run dev
