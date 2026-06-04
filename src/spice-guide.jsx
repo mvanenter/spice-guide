@@ -66,11 +66,11 @@ const cuisineColors = {
   Caribbean: "#F39C12", Vietnamese: "#27AE60", French: "#2C3E50",
   Mediterranean: "#1ABC9C", "South American": "#F39C12", British: "#34495E",
   "British baking": "#8E44AD", "Eastern European": "#95A5A6",
-  Persian: "#8E44AD", Sri Lankan: "#E74C3C", Lebanese: "#27AE60",
+  Persian: "#8E44AD", "Sri Lankan": "#E74C3C", Lebanese: "#27AE60",
   Turkish: "#E74C3C", Israeli: "#3498DB", Sichuan: "#C0392B",
   Cajun: "#D35400", Global: "#7F8C8D", German: "#95A5A6",
   Malaysian: "#27AE60", Filipino: "#3498DB", Ethiopian: "#E67E22",
-  "South Indian": "#E74C3C", Moroccan: "#E8A020",
+  "South Indian": "#E74C3C",
 };
 
 export default function SpiceGuide() {
